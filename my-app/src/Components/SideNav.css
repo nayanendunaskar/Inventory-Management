@@ -1,0 +1,20 @@
+.side-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: #121212;
+    height: 90vh;
+    padding-top: 6rem;
+    position: sticky;
+    top: 0px;
+  }
+  
+  .side-nav a {
+    color: white;
+    padding: 2rem 3rem;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .side-nav a:hover {
+    color: powderblue;
+  }
